@@ -87,6 +87,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/ExoCubeYT/ExoCubeYT/output/snake.svg" alt="Snake animation" />
 
 ###

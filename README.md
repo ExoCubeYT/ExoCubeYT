@@ -90,8 +90,16 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ExoCubeYT/ExoCubeYT/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ExoCubeYT/ExoCubeYT/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ExoCubeYT/ExoCubeYT/output/pacman-contribution-graph.svg">
 </picture>
+
+## Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=exocubeyt&bg_color=DD272700&color=9E4C98&line=9E4C98&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 
 ###
 
